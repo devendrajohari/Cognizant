@@ -1,0 +1,5 @@
+com\devendra\product\bo\ProductBOImpl.class
+com\devendra\product\bo\ProductBO.class
+com\devendra\product\dao\ProductDAO.class
+com\devendra\product\dao\ProductDAOImpl.class
+com\devendra\product\dto\Product.class
